@@ -1,23 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace TestDome
+class MalwareAnalysis
 {
-   class MalwareAnalysis
+    public static int[] Simulate(int[] entries)
     {
-        public static int[] Simulate(int[] entries)
-        {
-           throw new NotImplementedException("Waiting to be implemented.");
-        }
+        return entries;
+    }
 
-        public static void Main(string[] args)
-        {
-            int[] records = new int[] { 1, 2, 0, 5, 0, 2, 4, 3, 3, 3 };
-            var result = Simulate(records);
-            Console.WriteLine(result);
-        }
+    public static void Main(string[] args)
+    {
+        int[] records = new int[] { 1, 2, 0, 5, 0, 2, 4, 3, 3, 3 };
+        var result = Simulate(records);
+        Console.WriteLine(string.Join(", ", result));
     }
 }

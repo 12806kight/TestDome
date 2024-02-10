@@ -1,0 +1,7 @@
+C:\Users\12806\source\repos\TestDome\bin\Debug\TestDome.exe.config
+C:\Users\12806\source\repos\TestDome\bin\Debug\TestDome.exe
+C:\Users\12806\source\repos\TestDome\bin\Debug\TestDome.pdb
+C:\Users\12806\source\repos\TestDome\obj\Debug\TestDome.csproj.AssemblyReference.cache
+C:\Users\12806\source\repos\TestDome\obj\Debug\TestDome.csproj.CoreCompileInputs.cache
+C:\Users\12806\source\repos\TestDome\obj\Debug\TestDome.exe
+C:\Users\12806\source\repos\TestDome\obj\Debug\TestDome.pdb
