@@ -4,6 +4,10 @@ class MalwareAnalysis
 {
     public static int[] Simulate(int[] entries)
     {
+        for (int i = 1; i < entries.Length; i++)
+        {
+            entries[i] = i + 2;
+        }
         return entries;
     }
 
